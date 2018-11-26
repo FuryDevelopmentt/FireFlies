@@ -28,7 +28,9 @@ html, body, div, span, canvas { margin:0; padding:0; }
    height: 250px;
    width: 700px;
 }
-
+/* Css for <div class="FireFlys"> remove everything below if you remove that div from index.html as this becomes
+   uneeded
+*/
 h1 {
   color: #ffcc00;
   position: absolute; 
